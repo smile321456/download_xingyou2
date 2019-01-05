@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fengyunge.cs</string>
+				<string>com.xingyou2.cs</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
